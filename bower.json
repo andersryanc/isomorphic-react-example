@@ -1,0 +1,29 @@
+{
+  "name": "isomorphic-react-example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/andersryanc/isomorphic-react-example",
+  "authors": [
+    "Ryan Anderson <ryan@mranderson.io>"
+  ],
+  "description": "ReactJS + NodeJS ( express ) + Browser Sync + Less. Isomorphic JS = Shared JavaScript that runs on both the client & server.",
+  "main": "server.js",
+  "moduleType": [],
+  "keywords": [
+    "node",
+    "react",
+    "less",
+    "browser-sync",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
