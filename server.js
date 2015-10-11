@@ -1,10 +1,10 @@
 // server.js
 
-var express = require('express'),
-path = require('path'),
-app = express(),
-port = 4444,
-bodyParser = require('body-parser');
+var express    = require('express');
+var path       = require('path');
+var app        = express();
+var port       = 4444;
+var bodyParser = require('body-parser');
 
 // Make sure to include the JSX transpiler
 require('node-jsx').install();
